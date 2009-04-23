@@ -1,0 +1,7 @@
+Goal: To learn how to do some data binding
+
+Research: Google "Flex Databinding" and see if you can find an adobe article on it (optional)
+
+Assignment: Create this swf
+
+Research: Databind something else
