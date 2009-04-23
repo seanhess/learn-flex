@@ -1,0 +1,7 @@
+Goal: To become familiar with the mx.controls package. 
+
+Research: Open up the help docs for <mx:Button/>. The first thing it lists is the Package (mx.controls). Click that link. It should give you links to a bunch of controls. 
+
+Assignment: Create this swf
+
+Research: fool around with some controls. 

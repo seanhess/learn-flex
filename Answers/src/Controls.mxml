@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute">
+	<mx:Panel verticalCenter="0" horizontalCenter="0" title="controls" width="300">
+		<mx:CheckBox label="I am a checkbox"/>
+		<mx:TextInput text="Insert Text Here"/>
+		<mx:HSlider />
+		<mx:Image source="http://www.google.com/intl/en_ALL/images/logo.gif"/>
+		<mx:Label text="This is some text"/>
+		<mx:Text width="100%" text="This is some text that word wraps because I am using the right component. you had better use the right one or it won't wrap. Don't forget to set the width"/>
+		<mx:TextArea text="Insert some more text here"/>
+	</mx:Panel>
+</mx:Application>
