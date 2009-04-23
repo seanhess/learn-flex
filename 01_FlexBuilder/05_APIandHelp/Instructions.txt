@@ -1,0 +1,5 @@
+Use the Language Reference to figure out how to change the button font size to 24, and the height of the button to 300 pixels. (FlexBuilder -> Help -> Find in Language Reference)
+
+Tip: remember to "show inherited properties" if you can't find what you're looking for
+
+Experiment: Change some other stuff on the button. 

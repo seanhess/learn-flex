@@ -1,0 +1,3 @@
+Create a new Application in Flex Builder, Paste in ExampleApp.mxml and compile.
+
+Experiment: Create another new application and get a button with another message to show up

@@ -1,0 +1,10 @@
+flex builder
+
+flex
+	containers (layout)
+	controls
+	
+actionscript
+	functions
+	objects
+	events (mxml to as)

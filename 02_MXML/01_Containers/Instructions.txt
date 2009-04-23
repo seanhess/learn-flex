@@ -1,0 +1,70 @@
+Build an application that has buttons in the following locations (pretend this is a visual thing... ) (Lines represent the edges of screen)
+
+Look up the following in the help docs: VBox, HBox, Canvas and Panel.
+
+_________________________
+| Button Button 		|
+_________________________
+
+
+________________________
+| Button		Button |
+________________________
+
+_________________________
+| [		Button	 	  ] |		A Button that takes up the whole screen
+_________________________
+
+
+________________________
+| Button				|
+| Button				|
+________________________
+
+_________________________		
+| Button				|
+|						|
+|						|
+| Button				|
+_________________________
+
+
+_________________________		
+| Button		 Button |
+|						|
+|						|
+| Button				|
+_________________________
+
+
+_________________________		
+| Button		  		|
+| Button Button			|
+| Button Button Button	|
+_________________________
+
+_________________________		
+| Button	Panel_______|	This is a panel on the right side of the screen with two buttons in it
+| 			  Button	|
+| 			  Button	|
+| [     Button 		  ]	| 	This is a really big button taking up the entire bottom of the screen
+_________________________
+
+
+_________________________		
+| ooooooooooooooooooooo |	oo represents Black 		Use backgroundColor
+| oo					|	blank represents white
+| oo					|
+| oo					|
+| oo					|
+_________________________
+
+_________________________		
+| ooooooooooooooooooooo |	oo represents Black
+| oo				 oo	|	blank represents white
+| oo				 oo	|	
+| oo				 oo	|	
+| oo				 oo	|	
+| oo				 oo	|	
+| ooooooooooooooooooooo |	
+_________________________

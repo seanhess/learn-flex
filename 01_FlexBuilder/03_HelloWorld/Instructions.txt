@@ -1,0 +1,3 @@
+Google "Flex Hello World Tutorial". Find one, and follow it to its bitter end.
+
+Experiment: Change some properties in the tutorial

@@ -1,0 +1,1 @@
+Get all the applications in this folder to compile. They all have bugs, so use the problems panel, google, and your brain to figure out what is wrong.

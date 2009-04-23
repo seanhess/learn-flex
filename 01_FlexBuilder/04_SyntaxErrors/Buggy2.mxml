@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute">
+	
+	<!-- This is supposed to be a heart. Maybe use &lt;3 instead of < (< isn't allowed in an attribute) -->
+	<mx:Button label="charlie <3 julia"/>
+	
+</mx:Application>
