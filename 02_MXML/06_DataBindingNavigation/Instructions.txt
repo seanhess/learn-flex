@@ -1,0 +1,7 @@
+Goal: Learn a little more about databinding (not much more) and about the ViewStack and ToggleButtonBar components. You will be exposed to dataProviders (to set the toggle button bar)
+
+Research: ViewStack, ToggleButtonBar (see the dataProvider in the examples)
+
+Assignment: Create this swf
+
+Research: Play around some more :)

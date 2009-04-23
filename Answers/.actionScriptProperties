@@ -9,6 +9,7 @@
 <sourceAttachmentPath/>
 </compiler>
 <applications>
+<application path="MXMLDataBindingNavigation.mxml"/>
 <application path="OtherContainers.mxml"/>
 <application path="Controls.mxml"/>
 <application path="DataBinding.mxml"/>
