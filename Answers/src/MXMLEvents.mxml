@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute">
+	<mx:Panel>
+		<mx:Button id="henry" label="henry" click="henry.width = 500"/>
+		<mx:Button id="bob" label="bob" click="bob.width = bob.width + 10"/>
+	</mx:Panel>
+</mx:Application>

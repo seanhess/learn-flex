@@ -1,0 +1,7 @@
+Goal: Respond to an event and change something
+
+Research: Pretty much any flex example with buttons in it will have click events
+
+Assignment: Create this swf
+
+Research: Play around some more :)

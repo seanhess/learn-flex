@@ -12,6 +12,7 @@
 <application path="OtherContainers.mxml"/>
 <application path="Controls.mxml"/>
 <application path="DataBinding.mxml"/>
+<application path="MXMLEvents.mxml"/>
 </applications>
 <modules/>
 <buildCSSFiles/>
