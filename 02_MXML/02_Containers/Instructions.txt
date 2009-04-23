@@ -1,0 +1,5 @@
+Goal: To learn how to use other non-standard containers. 
+
+Research: <mx:Accordion/> <mx:Tile/>
+
+Make it look like the SWF in this folder

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute">
+	
+	
+	<mx:Panel width="300" verticalCenter="0" horizontalCenter="0">
+	
+		<mx:Accordion width="100%" height="200">
+			<mx:Canvas label="one">
+				<mx:Label text="one"/>
+			</mx:Canvas>
+			<mx:Canvas label="two">
+				<mx:Label text="one"/>
+			</mx:Canvas>
+			<mx:Canvas label="three">
+				<mx:Label text="three"/>
+			</mx:Canvas>
+		</mx:Accordion>
+		
+		<mx:Tile width="100%">
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+			<mx:Button label="button"/>
+		</mx:Tile>
+		
+	</mx:Panel>
+</mx:Application>
