@@ -1,0 +1,9 @@
+Instruction: Flex allows you to make custom components, that you can then reuse. Most of the components you have been using are in fact created in MXML or Actionscript. When you get more advanced, you can look at their source and see how they did stuff. More importantly, you can make your own "custom" versions of these that allow you to duplicate effects without repeating yourself over and over. There's a "MXML Component" in the new menu. In the new menu you can say what you want to extend. 
+
+Goal: Learn how to make a custom component and reuse it several times. 
+
+Research: ?? Not sure, try google?
+
+Assignment: Create a custom button that specifies some style properties (like font size, width, or whatever), then reuse it five times. 
+
+Experiment: Try making another custom component... Maybe a custom panel?

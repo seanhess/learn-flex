@@ -1,0 +1,28 @@
+Goal: Learn how to use events and functions
+
+Instruction: Actionscript is procedural, meaning the statements get executed in order. MXML is declarative, and the order is either meaningless or visual. So, when you write actionscript statements, they happen once, in order. You can create a function, which allows you to run the same statements over and over, or at a specific time (like in response to an event).
+
+A function looks like this: 
+
+	function myNameForMyFunction()
+	{
+		// stuff you want to do
+		// this double-slash is a comment and won't be executed. 
+	}
+	
+Anything inside those braces will be executed when the function is called. 
+
+Actionscript wants you to be a little more specific than this. Here's a full example. 
+
+	public function test():void 
+	{
+		someObject.someProperty = "some String";
+	}
+	
+You can call functions from MXML in event handlers. you've already been doing some actionscript in event handlers (like, myButton.width = 300). Instead of doing some actionscript in the event handler, you can call a function by saying: "test()"
+
+Research:
+
+Assignment: Make a button that calls a function when clicked. The function should manipulate something on the page
+
+Experiment: 
