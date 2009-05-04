@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml">
+	
+	<mx:Script>
+		<![CDATA[
+			private function calculate():void
+			{
+				var num:Number = convertToNumber(input.text);
+				num = times2(num);
+				result.text = num.toString();
+			}
+			
+			private function convertToNumber(value:String):Number
+			{
+				return new Number(value);
+			}
+			
+			private function times2(num:Number):Number
+			{
+				return num*2;
+			}
+		]]>
+	</mx:Script>
+	
+	<mx:Panel>
+		<mx:Form>
+			<mx:FormItem label="Number:">
+				<mx:TextInput id="input"/>
+			</mx:FormItem>
+			<mx:FormItem label="Result:">
+				<mx:Label id="result"/>
+			</mx:FormItem>
+			<mx:Button label="Calculate" click="calculate()"/>
+		</mx:Form>
+	</mx:Panel>
+	
+</mx:Application>

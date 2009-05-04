@@ -1,0 +1,20 @@
+Goal: Learn how to return values from a function and store them in a variable
+
+Instruction: You can return a value from a function. 
+
+	public function example():String
+	{
+		return "This is what I am returning"
+	}
+	
+	public function anotherExample():String
+	{
+		var message:String = "Hello mr bob";
+		return message;
+	}
+
+Research: ???
+
+Assignment: Write a function that returns the number you pass in times 2. Call it a couple of times and trace the results of the function call. 
+
+Experiment: 
