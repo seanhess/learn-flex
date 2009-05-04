@@ -1,0 +1,29 @@
+Goal: Learn how to define variables in actionscript, and what they are for. Learn how to use trace()
+
+Instruction: Any programming language uses variables to store information. A button's width property is stored in a variable. You can use variables to store things on an object (then you call them "properties" of an object), or just temporarily inside of a function. 
+
+You can define a local variable like this:
+	
+	var message:String = "Hello";
+	var age:Number = 4;
+	var button:Button = new Button();
+	
+The "var" keyword is required when declaring the variable. The next part is the name, and the type comes after the colon. You don't HAVE to define the type, but if you don't the compiler won't check to make sure that you set it to the right type of object. 
+
+You don't have to create the object right away, the variable is kind of like a container for something. So, you can do this:
+	
+	var message:String;
+	
+		message = "Hello";
+		message = "Goodbye";
+		message = "You are fat";
+		
+You are putting different strings inside the message variable, as if it were a container. 
+
+Tip: The trace() function is global (you can call it from anywhere). Use it and you can see output in your console window in flex builder. 
+
+Research: 
+
+Assignment: create a function that declares 3 different variables of type string containing messages to display. trace each variable to the console. 
+
+Experiment: 
