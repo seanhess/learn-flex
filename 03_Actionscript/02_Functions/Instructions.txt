@@ -1,0 +1,26 @@
+Goal: Learn how to call a function with a parameter
+
+Instruction: You can define a function like this: 
+
+	public function myFunction():void
+	{
+		label.text = "hello"
+	}
+	
+	You can call it like this: myFunction()
+	
+	Instead, you can add a parameter, meaning you give it an instruction, and it can use the instruction to do different
+ things. 
+
+	public function myFunction(message:String):void
+	{
+		label.text = message;
+	}
+	
+	you can call it like this; myFunction("hello");
+
+Research: 
+
+Assignment: Make 3 buttons that size the width of something to three different values by calling the same function
+
+Experiment: 
