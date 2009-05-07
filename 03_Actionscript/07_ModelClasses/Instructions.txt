@@ -1,0 +1,9 @@
+Goal: Learn about model classes and make one
+
+Instruction: There are many types of classes. The math class you just created is what's usually called a utility class: it does some stuff for you. Another type of class is a model. Models contain information about something, and try to be a representation of something in the real world. Take a look at the example.
+
+Research: Look at the example class. 
+
+Assignment: Create a Person class that stores a person's name, weight, height, and gender. Write an application that creates a person object. Edit the person object with a form and create a view that displays the current person. Look at the example. 
+
+Experiment: 

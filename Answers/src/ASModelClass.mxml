@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="horizontal" xmlns:model="model.*">
+
+	<mx:Script>
+		<![CDATA[
+			private function updatePerson():void
+			{
+				person.name = nameField.text;
+				person.height = heightField.value;
+				person.weight = weightField.value;
+				person.gender = genderField.text;
+			}
+		]]>
+	</mx:Script>
+	
+	<model:Person id="person"/>
+	
+	<mx:Panel title="edit">
+		<mx:Form>
+			<mx:FormItem label="name">
+				<mx:TextInput id="nameField" text="{person.name}"/>
+			</mx:FormItem>
+			<mx:FormItem label="weight">
+				<mx:NumericStepper id="weightField" value="{person.weight}"/>
+			</mx:FormItem>
+			<mx:FormItem label="height">
+				<mx:NumericStepper id="heightField" value="{person.height}"/>
+			</mx:FormItem>
+			<mx:FormItem label="gender">
+				<mx:TextInput id="genderField" text="{person.gender}"/>
+			</mx:FormItem>
+		</mx:Form>
+		
+		<mx:Button label="Submit" click="updatePerson()"/>
+	</mx:Panel>
+	
+	<mx:Panel title="person">
+		<mx:Form>
+			<mx:FormItem label="name">
+				<mx:Label text="{person.name}"/>
+			</mx:FormItem>
+			<mx:FormItem label="weight">
+				<mx:Label text="{person.weight}"/>
+			</mx:FormItem>
+			<mx:FormItem label="height">
+				<mx:Label text="{person.height}"/>
+			</mx:FormItem>
+			<mx:FormItem label="gender">
+				<mx:Label text="{person.gender}"/>
+			</mx:FormItem>
+		</mx:Form>
+	</mx:Panel>
+</mx:Application>
