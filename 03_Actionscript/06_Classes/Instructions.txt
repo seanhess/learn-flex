@@ -1,0 +1,9 @@
+Goal: Understand what a class is and make one. 
+
+Instruction: Look at the example class. A class is a blueprint, that allows you to quickly make multiple copies of the same thing. It also lets you know how to interact with something (through it's public functions and variables).
+
+Research: Look at the class
+
+Assignment: Create a class called Math, which performs mathematical operations (add, subtract, multiply, and divide). Create an instance of your class, and use it to perform 1 of each type of operation, either tracing or displaying the result.  
+
+Experiment: 
