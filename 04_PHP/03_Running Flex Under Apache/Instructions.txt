@@ -1,0 +1,11 @@
+Goal: Run a flex app under localhost
+
+Instruction: In order for php scripts to run, you have to get your app running under localhost instead of a local file. Look at the url when you launch a flex app, it probably has file:// at the beginning, maybe the drive letter, etc. You can change the folder that localhost points to, to be the folder where you run flex stuff. Check your WAMP install preferences or something. 
+
+You can change the url that flex launches when you run it. Go to "Debug as" or project properties, and change the file:// path to be the localhost path 
+
+Research: Take a hello world tutorial 
+
+Assignment: Change your localhost to point to where your flex apps are running, and get one to run under localhost every time you run it. 
+
+Experiment: 
