@@ -1,0 +1,9 @@
+Goal: Write your first PHP script
+
+Instruction: PHP is a templating language. It runs on the server, and prints out html, which is read by the web browser as if it were a static html file. 
+
+Research: Take a hello world tutorial 
+
+Assignment: Create a php script that outputs some html. Output "hello world" between some bold html tags (<b>) using the php echo command.
+
+Experiment: 

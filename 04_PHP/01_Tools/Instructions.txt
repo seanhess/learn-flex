@@ -1,0 +1,9 @@
+Goal: Get Apache, PHP and MySQL set up on your local system
+
+Instruction: You will install a webserver on your computer. you can then type "http://localhost" in your compu
+
+Research: Download and install either WAMP or XAMPP. 
+
+Assignment: Get the phpinfo script running in a browser under the localhost url. 
+
+Experiment: 
