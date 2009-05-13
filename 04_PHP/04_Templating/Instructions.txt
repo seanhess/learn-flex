@@ -1,0 +1,9 @@
+Goal: Understand how PHP can output templates
+
+Instruction: You'll need to output data that your "client" understands. A regular browser expects HTML. Flex expects XML, or another data format. PHP allows you to easily throw stuff together and output it. 
+
+Research: 
+
+Assignment: Output xml like what you see in this folder. You may need to view source to see it (xml appears as blank in many browsers). Declare php variables for the message and the name, and output those variables (rather than static info).
+
+Experiment: 
